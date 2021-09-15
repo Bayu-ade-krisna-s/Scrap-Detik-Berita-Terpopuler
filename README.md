@@ -1,4 +1,4 @@
-# scrap-detik-berita-terpopuler
+# Scrap-Detik-Berita-Terpopuler
 This project describe how to scrap 'Berita Terpopuler' from website detik.com
 I scrap this website on September, 15 2021 so does the results.
 
